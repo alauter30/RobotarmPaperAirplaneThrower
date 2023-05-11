@@ -5,6 +5,9 @@ This repo is a template VS code project for CircuitPython projects that automati
 ---
 
 ## Use
+
+this is just for syntax  delete before submitting assignment
+
 ### Every new project:
 1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
 2. Click the big green Use This Template button at the top of this page.
