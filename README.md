@@ -35,7 +35,7 @@ I hope this gets done soon, but if the time you are reading this is over a year 
 but in all seriousness, I just want to get this done soon.
 
 # Link to Onshape
-https://github.com/alauter30/RobotarmPaperAirplaneThrower/blob/main/Images/ProjectPicPlane.jpg
+https://cvilleschools.onshape.com/documents/00a511cb2e2495d73b06fd67/w/50f2ce127b1f60dc7bd3f185/e/8c91c1825a015feebfa08eb7?renderMode=0&uiState=64625009c079ed71504f1459
 
 Feel Free to look at our masterpiece here
 
