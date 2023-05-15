@@ -18,7 +18,7 @@ This Robot would simply throw an airplane, so that you would have the comfort of
 ---
 ### Pictures
 
-/Images/PAPERAIRPLANE1.PNG
+![CAD](https://github.com/alauter30/RobotarmPaperAirplaneThrower/blob/main/Images/PAPERAIRPLANE1.PNG)
 ---
 ## Code
 
