@@ -18,7 +18,7 @@ This Robot would simply throw an airplane, so that you would have the comfort of
 ---
 ### Pictures
 
-.\Images\PAPERAIRPLANE1.PNG
+Images/PAPERAIRPLANE1.PNG
 ---
 ## Code
 
